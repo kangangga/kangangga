@@ -5,7 +5,8 @@
 <!--   <img width="55" height="55" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"> -->
   <br>  
   <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kangangga&show_icons=true&theme=tokyonight&rank_icon=github" />
+<!--     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kangangga&show_icons=true&theme=tokyonight&rank_icon=github" /> -->
+    <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kangangga&theme=tokyonight" />
   </a>
 </p>
 
